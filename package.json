@@ -1,0 +1,16 @@
+{
+    "name": "hh-admin-loader",
+    "version": "0.1.0",
+    "description": "select ops or merchant code to load",
+    "main": "index.js",
+    "scripts": {
+
+    },
+    "keywords": [
+        "ops",
+        "merchant",
+        "outputTarget"
+    ],
+    "author": "gengguofeng@mi-ya.com.cn",
+    "license": "MIT"
+}
